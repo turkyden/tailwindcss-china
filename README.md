@@ -1,4 +1,4 @@
-# Tailwind 中国
+# TailwindCSS 中国
 
 ## Getting Started
 
