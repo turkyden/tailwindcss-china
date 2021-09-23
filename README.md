@@ -10,6 +10,8 @@ https://tallstack.dev/ 技术栈缩写 Tailwind + Alphe.js + Laravel + Livewire
 
 https://devdojo.com/tails 基于 TailwindCSS 低代码搭建营销页解决方案
 
+https://github.com/aniftyco/awesome-tailwindcss
+
 ## Getting Started
 
 Install dependencies,
