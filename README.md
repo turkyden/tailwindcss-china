@@ -12,6 +12,8 @@ https://devdojo.com/tails 基于 TailwindCSS 低代码搭建营销页解决方�
 
 https://github.com/aniftyco/awesome-tailwindcss
 
+https://www.jq22.com/
+
 ## Getting Started
 
 Install dependencies,
