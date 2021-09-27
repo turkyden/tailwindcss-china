@@ -23,7 +23,8 @@
     "@ant-design/pro-layout": "^6.5.0",
     "react": "17.x",
     "react-dom": "17.x",
-    "umi": "^3.5.19"
+    "umi": "^3.5.19",
+    "umi-plugin-tailwindcss": "^3.2.1"
   },
   "devDependencies": {
     "@types/react": "^17.0.0",
