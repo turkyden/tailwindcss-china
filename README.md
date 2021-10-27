@@ -27,3 +27,7 @@ Start the dev server,
 ```bash
 $ yarn start
 ```
+
+## License
+
+MIT
